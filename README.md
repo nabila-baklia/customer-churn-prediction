@@ -61,7 +61,7 @@ Four models were built and compared, representing a clear progression in complex
 
 | Model | Accuracy | Precision | Recall | F1 Score | ROC-AUC |
 |---|---|---|---|---|---|
-| Logistic Regression | 0.759 | 0.507 | 0.833 | 0.630 | **0.856** ✅ |
+| Logistic Regression | 0.759 | 0.507 | 0.833 | 0.630 | **0.856** |
 | Decision Tree | 0.744 | 0.542 | 0.757 | 0.632 | 0.795 |
 | Random Forest | 0.757 | 0.562 | 0.735 | 0.637 | 0.839 |
 | Gradient Boosting | 0.784 | 0.677 | 0.488 | 0.567 | 0.833 |
